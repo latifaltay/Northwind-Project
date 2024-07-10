@@ -9,3 +9,14 @@ C:\Users\ELEYDEV\Desktop\C#\EnginHoca\1.kamp Tekrar\FinalProject\Business\obj\De
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\1.kamp Tekrar\FinalProject\Business\obj\Debug\Business.pdb
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\1.kamp Tekrar\FinalProject\Business\bin\Debug\DataAccess.dll
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\1.kamp Tekrar\FinalProject\Business\bin\Debug\DataAccess.pdb
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\Business.dll
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\Business.pdb
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\DataAccess.dll
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\Entities.dll
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\DataAccess.pdb
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\bin\Debug\Entities.pdb
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\obj\Debug\Business.csproj.Up2Date
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\obj\Debug\Business.dll
+C:\Users\ELEYDEV\Desktop\MyProjects\Northwind-Project\Business\obj\Debug\Business.pdb
