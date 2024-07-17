@@ -2807,11 +2807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2829,11 +2829,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj"
             },
-            "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj"
             }
           }
         }

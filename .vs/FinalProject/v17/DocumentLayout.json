@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FBA71C9-E699-4336-8A4F-5DBE59746F7F}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{165F9CFA-6F85-48A5-A703-00D3C45A78AD}|Entities\\Entities.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165F9CFA-6F85-48A5-A703-00D3C45A78AD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\business\\business.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165F9CFA-6F85-48A5-A703-00D3C45A78AD}|Entities\\Entities.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\entities\\entities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{165F9CFA-6F85-48A5-A703-00D3C45A78AD}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBA71C9-E699-4336-8A4F-5DBE59746F7F}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FBA71C9-E699-4336-8A4F-5DBE59746F7F}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754860CA-5FF4-45B2-8CD5-B8F6290F1ADE}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\n\\finalproject\\dataaccess\\concrete\\inmemory\\inmemoryproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|c:\\users\\eleydev\\desktop\\myprojects\\northwind-project\\dataaccess\\concrete\\inmemory\\inmemoryproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED9397A-3914-465B-BCE3-7EF167C75790}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\inmemory\\inmemoryproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,85 +50,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:23:52.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:17:44.196Z",
+              "WhenOpened": "2024-07-17T17:17:26.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\Business\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:17:03.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:38:27.222Z",
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T15:13:53.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EfProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAABCAAAA",
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T15:13:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T15:13:42.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:37:14.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T18:23:52.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:17:44.196Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:17:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:38:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:37:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "InMemoryProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\n\\FinalProject\\DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
               "RelativeToolTip": "DataAccess\\Concrete\\InMemory\\InMemoryProductDal.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAkwCoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:17:40.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T17:17:40.717Z"
             }
           ]
         }
