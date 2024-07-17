@@ -23,7 +23,7 @@ namespace DataAccess.Concrete.InMemory
                 new Product{ProductId=5, CategoryId=2, ProductName = "Fare", UnitPrice = 85, UnitsInStock =1 },
             };
         }
-        
+
         public void Add(Product product)
         {
             _products.Add(product);
@@ -52,7 +52,7 @@ namespace DataAccess.Concrete.InMemory
 
         public List<Product> GetAllByCategory(int categoryId)
         {
-           return _products.Where(p => p.CategoryId == categoryId).ToList();
+            return _products.Where(p => p.CategoryId == categoryId).ToList();
         }
 
         public void Update(Product product)
