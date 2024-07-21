@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -39,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,18 +81,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Business\\Business.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -107,11 +100,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -133,18 +121,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,7 +143,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -168,11 +155,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -210,18 +192,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,18 +214,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -252,11 +233,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -294,18 +270,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -316,15 +292,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\MyProjects\\Northwind-Project\\Core\\Core.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj"
               }
             }
           }
@@ -333,11 +308,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -359,7 +329,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
