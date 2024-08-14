@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -43,6 +43,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -212,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +246,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj"
               }
             }
           }
@@ -271,14 +281,14 @@
         }
       }
     },
-    "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -295,17 +305,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Business\\Business.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Business\\Business.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Core\\Core.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\C#\\EnginHoca\\Northwind-Project\\Entities\\Entities.csproj"
+              "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -320,6 +330,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
