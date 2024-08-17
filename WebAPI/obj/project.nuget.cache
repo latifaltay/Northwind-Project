@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9F6kuoRrG1CiNbpu1p9YCqbRpsFR1vC1NRcBJ6k+Cm7HkUAvq1qWuBpSUvOs27VvxyR+piE1dpzzuG1AEEz3TA==",
+  "dgSpecHash": "yEwTGE37thMXZAYkNMzCBgVJHFXLxZYurArhY5erbCzkYJ76Khz/ShPl2hNje3Z2ncMqCEsEftt4FwtONyhmiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\ELEYDEV\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ynXFep0mtR/ShbmHZrpNuEor/2CSm/2x/tZS3iKHxkmyqwHEzziDZr/qXZ0ylP3g1fLsEqWQ7y5i/uMKaBwcXA==",
+  "dgSpecHash": "2mvg7YrTEq9YTqGYhuSd8vjrmIMm1HOfPAMceVfbKN4lD/cSl3tMDHWd7UK6YY5LC6k+glxGgtHo1JJw5AovwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\Northwind-Project\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\ELEYDEV\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\autofac.extras.dynamicproxy\\7.1.0\\autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\ELEYDEV\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

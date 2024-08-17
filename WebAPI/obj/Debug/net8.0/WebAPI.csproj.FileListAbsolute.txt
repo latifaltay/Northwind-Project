@@ -160,3 +160,4 @@ C:\Users\ELEYDEV\Desktop\Northwind-Project\WebAPI\obj\Debug\net8.0\refint\WebAPI
 C:\Users\ELEYDEV\Desktop\Northwind-Project\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\ELEYDEV\Desktop\Northwind-Project\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\ELEYDEV\Desktop\Northwind-Project\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\ELEYDEV\Desktop\Northwind-Project\WebAPI\bin\Debug\net8.0\FluentValidation.dll
